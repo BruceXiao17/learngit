@@ -1,1 +1,2 @@
 Mark to test file status.
+Add one line for testing diff command.
